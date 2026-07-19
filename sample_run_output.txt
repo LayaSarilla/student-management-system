@@ -1,0 +1,146 @@
+=================================================
+      STUDENT MANAGEMENT SYSTEM
+=================================================
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: 
+-- Add New Student --
+Name: Age: Course: Email: Error adding student: (conn=26) Duplicate entry 'laya@example.com' for key 'students.email'
+Failed to add student.
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: 
+-- Add New Student --
+Name: Age: Course: Email: Student added successfully!
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: 
+-- Add New Student --
+Name: Age: Course: Email: Error adding student: (conn=28) Duplicate entry 'sneha@example.com' for key 'students.email'
+Failed to add student.
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: 
+-- All Students --
+ID   Name                 Age   Course          Email                    
+--------------------------------------------------------------------
+1    Laya Sarilla         22    B.Tech ECE      laya@example.com         
+3    Sneha Reddy          23    Information Tech sneha@example.com        
+5    Rahul Kumar          21    Computer Science rahul@example.com        
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: 
+-- Search Student --
+Enter Student ID: ID   Name                 Age   Course          Email                    
+1    Laya Sarilla         22    B.Tech ECE      laya@example.com         
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: 
+-- Update Student --
+Enter Student ID to update: No student found with ID: 2
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: Please enter a valid number: Please enter a valid number: Invalid choice. Please try again.
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: Please enter a valid number: Please enter a valid number: Please enter a valid number: 
+-- All Students --
+ID   Name                 Age   Course          Email                    
+--------------------------------------------------------------------
+1    Laya Sarilla         22    B.Tech ECE      laya@example.com         
+3    Sneha Reddy          23    Information Tech sneha@example.com        
+5    Rahul Kumar          21    Computer Science rahul@example.com        
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: 
+-- Delete Student --
+Enter Student ID to delete: No student found with ID: 2
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: 
+-- All Students --
+ID   Name                 Age   Course          Email                    
+--------------------------------------------------------------------
+1    Laya Sarilla         22    B.Tech ECE      laya@example.com         
+3    Sneha Reddy          23    Information Tech sneha@example.com        
+5    Rahul Kumar          21    Computer Science rahul@example.com        
+
+--------------------- MENU ---------------------
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Student by ID
+0. Exit
+--------------------------------------------------
+Enter your choice: Exiting... Goodbye!
